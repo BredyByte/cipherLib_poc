@@ -9,7 +9,7 @@ LIBHDR = $(LIBDIR)/libB.h
 LIBOUT = $(LIBDIR)/libB.so
 
 MAIN_SRC = ./main.c
-MAIN_BIN = ./main
+MAIN_BIN = ./mainexec
 
 RPATH = \$$ORIGIN/libB
 
